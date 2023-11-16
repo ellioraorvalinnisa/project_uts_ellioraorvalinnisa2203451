@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b1d7ec7b.css",
+    "main.js": "/static/js/main.585234fb.js",
+    "static/js/787.1e48cc4a.chunk.js": "/static/js/787.1e48cc4a.chunk.js",
+    "static/media/divkom.jpeg": "/static/media/divkom.252f363d075ec7374afd.jpeg",
+    "static/media/jakartadivkom.jpeg": "/static/media/jakartadivkom.78096dd31aedf730f1ce.jpeg",
+    "static/media/jogja.jpeg": "/static/media/jogja.ebe1bef347b47bb33898.jpeg",
+    "static/media/prambanan.jpeg": "/static/media/prambanan.fec290c5d22098e5a8cf.jpeg",
+    "static/media/Instagram.png": "/static/media/Instagram.263cdf8b69b5f5cfc6b7.png",
+    "static/media/podcast.png": "/static/media/podcast.500053bb665e83fd74d9.png",
+    "static/media/Whatsapp.png": "/static/media/Whatsapp.d9e9afa706b24d55c33c.png",
+    "static/media/kelaz.jpeg": "/static/media/kelaz.67f6373b634ee005930f.jpeg",
+    "static/media/Logo.png": "/static/media/Logo.4339f259fa4532d96617.png",
+    "static/media/lavatour.jpeg": "/static/media/lavatour.aff1a394609d089fe571.jpeg",
+    "static/media/Linkedin.png": "/static/media/Linkedin.a7ba96474db96a84f358.png",
+    "static/media/bg2.jpeg": "/static/media/bg2.d4dfe529b27c96ad315f.jpeg",
+    "index.html": "/index.html",
+    "main.b1d7ec7b.css.map": "/static/css/main.b1d7ec7b.css.map",
+    "main.585234fb.js.map": "/static/js/main.585234fb.js.map",
+    "787.1e48cc4a.chunk.js.map": "/static/js/787.1e48cc4a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b1d7ec7b.css",
+    "static/js/main.585234fb.js"
+  ]
+}
